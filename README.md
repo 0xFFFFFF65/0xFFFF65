@@ -40,8 +40,6 @@
   - - **`void vStr();`**
   - **`public:`**
   - - **`std::string sStr;`**
-  - - 
-  - 
 - **`};`**
 
 
