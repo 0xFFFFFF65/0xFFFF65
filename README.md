@@ -22,24 +22,24 @@
 
 ## **其他**
 - * ### **开源项目使用“类型-名称-用处”命名规则**  
-- * ### **我的开源项目里的变量，函数使用*匈牙利命名法*,如下：**
+- * ### **开源项目里的变量，函数使用*匈牙利命名法*,如下：**
   
   > 变量：
   > 
   > ```
-  > std::string helloWorldStr;
+  > std::string sNewbogie;
   > ```
   > 
   > 函数：
   > 
   > ```
-  > void helloWorld();
+  > void vNewbogie();
   > ```
   > 
   > 类：
   > 
   > ```
-  > class HelloWorld
+  > class CNewbogie
   > {
   > public:
   > 	void vNewbogie();
