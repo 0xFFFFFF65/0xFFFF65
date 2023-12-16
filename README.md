@@ -27,24 +27,24 @@
   > 变量：
   > 
   > ```
-  > std::string sNewbogie;
+  > std::string s0xFFFFFF65;
   > ```
   > 
   > 函数：
   > 
   > ```
-  > void vNewbogie();
+  > void v0xFFFFFF65();
   > ```
   > 
   > 类：
   > 
   > ```
-  > class CNewbogie
+  > class C0xFFFFFF65
   > {
   > public:
-  > 	void vNewbogie();
+  > 	void v0xFFFFFF65();
   > public:
-  > 	std::string sNewbogie;
+  > 	std::string s0xFFFFFF65;
   > };
   > ```
 
