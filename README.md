@@ -22,49 +22,29 @@
 
 ## **其他**
 - ### **开源项目使用“类型-名称-用处”命名规则**  
-- ### **开源项目里的变量，函数......使用 *匈牙利命名法* 或 *驼峰命名法* ,如下:**
+- ### **开源项目里的变量，函数......使用 *大驼峰命名法* ,如下:**
   
   > 变量：
   > 
   > ```
-  > std::string s0xFFFFFF65;     //匈牙利命名法
   > std::string ANumberString;   //大驼峰命名法
-  > std::string thisMyWindow;    // 小驼峰命名法
   > ```
   > 
   > 函数：
   > 
   > ```
-  > void v0xFFFFFF65();          //匈牙利命名法
   > void MyApp();                //大驼峰命名法
-  > void unknowFunction();       //小驼峰命名法
   > ```
   > 
   > 类：
   > 
   > ```
-  > class C0xFFFFFF65            //匈牙利命名法
-  > {
-  > public:
-  > 	void v0xFFFFFF65();
-  > public:
-  > 	std::string s0xFFFFFF65;
-  > };
-  > 
   > class MainWindow              //大驼峰命名法
   > {
   > public:
   > 	void MyApp();
   > public:
   > 	std::string ANumberString;
-  > };
-  >
-  > class mainWindow              //小驼峰命名法
-  > {
-  > public:
-  > 	void unknowFunction();
-  > public:
-  > 	std::string thisMyWindow;
   > };
   > ```
 
